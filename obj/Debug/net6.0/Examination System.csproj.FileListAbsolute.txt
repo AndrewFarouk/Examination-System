@@ -1,0 +1,15 @@
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.csproj.AssemblyReference.cache
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.exe
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.deps.json
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.dll
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\bin\Debug\net6.0\Examination System.pdb
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.dll
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.pdb
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+D:\Andrew\ASP.Net Backend_Course\3-C#\5-Exam\Examination System\Examination System\obj\Debug\net6.0\ref\Examination System.dll
